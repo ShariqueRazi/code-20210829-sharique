@@ -10,9 +10,9 @@
 Clone the repo:
 
 ```bash
-git clone https://github.c
+git clone  https://github.com/ShariqueRazi/code-20210829-sharique.git
 
-cd 
+cd  
 
 
 Install dependencies:
