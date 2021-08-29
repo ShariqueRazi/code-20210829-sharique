@@ -1,0 +1,15 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
